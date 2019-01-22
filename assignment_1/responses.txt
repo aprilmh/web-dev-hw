@@ -1,3 +1,5 @@
-So for every assignment will we be required to form a responses file?
-I followed the directions laid out in the tutorials and made sure that everything was correct.
-I made sure to double check all my work with the tutorials on the website and the instructions and if I made a mistake I made sure to fix thm.
+The internet is the actual communication between computers, the web is what everyday people use. 
+The internet is basically the communication of computers with different servers and different computers. 
+A directory is basically the main folder that holds all the files of code needed for a website. 
+Using a VCS is beneficial because it allows for easier collabration, easier backup and it makes saving easier.
+I didn't know a lot of this before doing this assignment so it was all interesting to learn. 
