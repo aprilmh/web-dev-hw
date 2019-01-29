@@ -3,5 +3,3 @@ Data travels on light, electricity and wire. The data will take place in the for
 An IP address is the attached to every computer and server and a DNS is an alphabetical address for every server.
 A cookie is a computer file made of text, it helps make using a webpage more personal.
 the three parts of a URL is the protocol, the domain name and the path. 
-https://github.com
-https://www.pinterest.com
