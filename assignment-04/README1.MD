@@ -1,0 +1,1 @@
+In the GIT Module I learned how to use a new program on my computer and utilize it for class work. It was okay to understand, I made sure to keep the directions up when I went to do my homework since it was a little bit more complicated this time. 
