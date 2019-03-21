@@ -1,4 +1,12 @@
 body {
+   font-family: Arial;
+}
+
+.main-container {
+   background-color: #ff00ff;
+   padding: 20%;
+}
+body {
    /* Targets EVERY element in the body. */
    font-family: Arial;
    background-color: #F1F1F1;
@@ -25,12 +33,4 @@ p.styled {
 body {
    font-size: 14pt;
    color: Green;
-}
-body {
-   font-family: Arial;
-}
-
-.main-container {
-   background-color: #ff00ff;
-   padding: 20%;
 }
