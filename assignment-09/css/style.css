@@ -1,0 +1,24 @@
+body {
+   /* Targets EVERY element in the body. */
+   font-family: Arial;
+   background-color: #F1F1F1;
+}
+
+h2+p {
+   /* Targets ONLY the first paragraph after ANY heading 2. */
+   border: 2px solid teal;
+}
+p {
+  /* Targets ALL paragraph elements. */
+   background-color: gold;
+}
+
+.styled {
+  /* Targets ANY element with the "styled" class. */
+   color: purple;
+}
+
+p.styled {
+  /* Targets ONLY paragraphs with the "styled" class. */
+   border: 2px solid teal;
+}
