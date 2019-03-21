@@ -22,3 +22,20 @@ p.styled {
   /* Targets ONLY paragraphs with the "styled" class. */
    border: 2px solid teal;
 }
+body {
+   font-size: 14pt;
+   color: white;
+}
+
+.box-1 {
+   background-color: rgb(255, 0, 0);
+   height: 250px;
+}
+.box-2 {
+    background-color: rgba(0, 255, 0, 0.5);
+    position: absolute;
+    left: 120px;
+    top: 140px;
+    width: 40%;
+    height: 300px;
+}
