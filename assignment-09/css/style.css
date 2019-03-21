@@ -26,16 +26,11 @@ body {
    font-size: 14pt;
    color: Green;
 }
-
-.box-1 {
-   background-color: rgb(255, 0, 255);
-   height: 250px;
+body {
+   font-family: Arial;
 }
-.box-2 {
-    background-color: rgba(0, 255, 0, 0.5);
-    position: absolute;
-    left: 120px;
-    top: 140px;
-    width: 40%;
-    height: 300px;
+
+.main-container {
+   background-color: #173E4E;
+   padding: 20%;
 }
