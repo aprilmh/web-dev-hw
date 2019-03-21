@@ -24,11 +24,11 @@ p.styled {
 }
 body {
    font-size: 14pt;
-   color: white;
+   color: Green;
 }
 
 .box-1 {
-   background-color: rgb(255, 0, 0);
+   background-color: rgb(255, 0, 255);
    height: 250px;
 }
 .box-2 {
