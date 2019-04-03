@@ -1,0 +1,25 @@
+/* This is the file, "fonts.css." */
+@font-face {
+   font-family: 'Playfair';
+   src: url('../fonts/PlayfairDisplay-Regular.ttf') format('opentype');
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: 'Playfair';
+   src: url('../fonts/PlayfairDisplay-Italic.ttf') format('opentype');
+   font-weight: normal;
+   font-style: italic;
+}
+#heading-1 {
+    font-family: 'PlayfairDisplay', 'Playfair', Trebuchet MS, Verdana, sans-serif;
+}
+* {
+  line-height: normal;
+}
+/* PSEUDO ELEMENT - Select the first letter that occurs: */
+.main-content p:first-child::first-letter {
+   font-family: 'Kumar One Outline', cursive;
+   font-size: 2.5em;
+   font-weight: bold;
+}
