@@ -32,3 +32,30 @@ span.bold {
     margin: 0px 50px 0px 50px;
     text-align: center;
 }
+.parent-container-03 {
+   border: 3px solid #333;
+   border-radius: 20px;
+   background-color: gold;
+   width: 80%;
+   padding: .5em;
+   margin: auto;
+}
+.child-container-03 {
+   width: 75%;
+   margin: 1em auto;
+   padding: 1em;
+   text-align: center;
+   border: 10px solid #fff;
+   background-color: #1CCDCA;
+   color: #fff;
+   font-size: 1.25em;
+}
+.border-01 {
+   border-radius: 100%;
+}
+.border-02 {
+   border-radius: 100px;
+}
+.border-03 {
+   border-radius: 3em 10em 10em 2em / 10em 3em 10em 2em;
+}
