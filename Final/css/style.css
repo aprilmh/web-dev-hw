@@ -43,7 +43,7 @@ li {
      color: #000;
  }
  .dropdown:hover .dropdown-content {
-     display: /* OPTIMIZE:  */;
+     display: block;
  }
 
  /* Style dropdown item display: */
