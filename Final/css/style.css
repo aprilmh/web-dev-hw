@@ -9,14 +9,7 @@ ul {
    text-align: center;
    padding: 10px;
  }
-li {
-   display: inline;
-   padding: 5px;
- }
- body {
-    margin: 0.25em;
-  }
-  /* Style the page: */
+   /* Style the page: */
 body {
     font-size: 10pt;
     margin: 0;
