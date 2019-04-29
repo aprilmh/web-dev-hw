@@ -19,10 +19,10 @@ body {
     .menu-item {
      margin: auto;
      padding: 0.25em;
-     min-width: 75px;
-     font-size: 10pt;
+     min-width: 25px;
+     font-size: 25pt;
      color: #fff;
-     background-color: goldenrod;
+     background-color: darkgray;
      line-height: 2.1em;
  }
  /* Add a dropdown feature: */
