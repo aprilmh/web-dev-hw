@@ -58,19 +58,6 @@ li {
      color: #baf0ef;
      background-color: #a2a2a2;
  }
- .my-box {
-   margin: 1em;
- }
-
- /* The top AND bottom have a margin of 1em, the right AND left of 2em: */
- .my-box {
-   margin: 1em 2em;
- }
-
- /* Top, right, bottom, and left margin is manually set in that order: */
- .my-box {
-   margin: 1em 2em 3em 4em;
- }
  .parent-container-01 {
     background-color: #79AF33;
     width: 250px;
@@ -93,4 +80,9 @@ li {
     background-color: gold;
     width: 50%;
     height: 50%;
+ }
+ il {
+   background-color: lightgray;
+   text-align: right center;
+   padding: 2px
  }
