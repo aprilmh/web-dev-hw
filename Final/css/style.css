@@ -4,3 +4,99 @@
 #heading-2 {
     font-family: 'SourceSansPro-ExtraLight', 'SourceSansPro-ExtraLightlt', Trebuchet MS, Verdana, sans-serif;
 }
+ul {
+   background-color: lilac;
+   text-align: center;
+   padding: 10px;
+ }
+li {
+   display: inline;
+   padding: 5px;
+ }
+ body {
+    margin: 0.25em;
+  }
+    .menu-item {
+     margin: auto;
+     padding: 0.25em;
+     min-width: 75px;
+     font-size: 10pt;
+     color: #fff;
+     background-color: goldenrod;
+     line-height: 2.1em;
+ }
+ .child-class-to-unhide {
+     display: none;
+ }
+ .parent-container:hover .child-class-to-unhide {
+     display: block;
+ }
+ /* Add a dropdown feature: */
+ .dropdown {
+     display: inline-block;
+ }
+ .dropdown-content {
+     display: none;
+     position: absolute;
+     border: 1px solid #000;
+     margin: 0;
+     margin-top: 0.5em;
+     color: #000;
+     background-color: #fff;
+     z-index: 1;
+ }
+ .dropdown-content a {
+     color: #000;
+ }
+ .dropdown:hover .dropdown-content {
+     display: block;
+ }
+
+ /* Style dropdown item display: */
+ .dropdown-item {
+     display: block;
+     text-align: left;
+     margin: 0;
+     padding: 0.5em;
+     min-width: 7em;
+ }
+ .dropdown-item:hover, .dropdown-item:hover a {
+     color: #baf0ef;
+     background-color: #a2a2a2;
+ }
+ .my-box {
+   margin: 1em;
+ }
+
+ /* The top AND bottom have a margin of 1em, the right AND left of 2em: */
+ .my-box {
+   margin: 1em 2em;
+ }
+
+ /* Top, right, bottom, and left margin is manually set in that order: */
+ .my-box {
+   margin: 1em 2em 3em 4em;
+ }
+ .parent-container-01 {
+    background-color: #79AF33;
+    width: 250px;
+    height: 250px;
+ }
+ .child-container-01 {
+    background-color: gold;
+    width: 50%;
+    height: 50%;
+ }
+
+ .parent-container-02 {
+    background-color: #79AF33;
+    width: 250px;
+    height: 250px;
+    margin: 2%;
+ }
+ .child-container-02 {
+    margin: 10%;
+    background-color: gold;
+    width: 50%;
+    height: 50%;
+ }
