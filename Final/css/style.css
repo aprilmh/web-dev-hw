@@ -11,7 +11,7 @@ ul {
  }
    /* Style the page: */
 body {
-    font-size: 40pt;
+    font-size: 25pt;
     margin: 0;
     padding: 0;
     background-color: #fff;
@@ -20,7 +20,7 @@ body {
      margin: auto;
      padding: 0.25em;
      min-width: 25px;
-     font-size: 25pt;
+     font-size: 15pt;
      color: #fff;
      background-color: darkgray;
      line-height: 2.1em;
@@ -31,8 +31,8 @@ body {
  }
  .dropdown-content {
      display: none;
-     position: absolute;
-     border: 1px solid #000;
+     position: center;
+     border: 0px solid #000;
      margin: 0;
      margin-top: 0.5em;
      color: #000;
