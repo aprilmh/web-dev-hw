@@ -16,6 +16,26 @@ li {
  body {
     margin: 0.25em;
   }
+  /* Style the page: */
+body {
+    font-size: 10pt;
+    margin: 0;
+    padding: 0;
+    background-color: #e2e2e2;
+}
+
+/* Set your header design: */
+header {
+    position: fixed;
+    top: 0px;
+    background-color: #26272b;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    margin-top: 0;
+    height: 4em;
+    width: 100%;
+    text-align: right;
+}
     .menu-item {
      margin: auto;
      padding: 0.25em;
