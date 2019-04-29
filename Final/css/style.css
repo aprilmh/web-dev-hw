@@ -25,12 +25,6 @@ li {
      background-color: goldenrod;
      line-height: 2.1em;
  }
- .child-class-to-unhide {
-     display: none;
- }
- .parent-container:hover .child-class-to-unhide {
-     display: block;
- }
  /* Add a dropdown feature: */
  .dropdown {
      display: inline-block;
