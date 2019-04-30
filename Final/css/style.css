@@ -5,14 +5,14 @@
     font-family: 'SourceSansPro-ExtraLight', 'SourceSansPro-ExtraLightlt', Trebuchet MS, Verdana, sans-serif;
 }
 ul {
-   background-color: lilac;
+   background-color: #c8a2c8;
    text-align: center;
    padding: 10px;
  }
    /* Style the page: */
 body {
     font-size: 15pt;
-    margin: 0;
+    margin: 2px;
     padding: 0;
     background-color: #fff;
 }
