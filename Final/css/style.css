@@ -7,14 +7,14 @@
 ul {
    background-color: #c8a2c8;
    text-align: center;
-   padding: 10px;
+   padding: 1px;
  }
    /* Style the page: */
 body {
     font-size: 15pt;
     margin: 2px;
     padding: 0;
-    background-color: #fff;
+    background-color: #c8a2c8;
 }
     .menu-item {
      margin: auto;
@@ -23,7 +23,7 @@ body {
      font-size: 15pt;
      color: #fff;
      background-color: darkgray;
-     line-height: 2.1em;
+     line-height: 1em;
  }
  /* Add a dropdown feature: */
  .dropdown {
